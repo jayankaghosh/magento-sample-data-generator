@@ -1,0 +1,18 @@
+{
+    "name": "root/magento-sample-data-generator",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MagentoSampleDataGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jayanka Ghosh",
+            "email": "joy@codilar.com"
+        }
+    ],
+    "require": {
+        "symfony/dotenv": "^6.3"
+    }
+}
